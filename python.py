@@ -13,4 +13,4 @@ for i in range(10, 0, -1):
     time.sleep(1)
 print("Times up!")
 #We use a for loop to count down from ten, then printing the i out to activate te code, setting the time.sleep
-#function to 1 and finally printing out times up to say that the 10 seconds have finished.
+#function to 1 and finally printing out times up to say that the 10 seconds have finished. 
